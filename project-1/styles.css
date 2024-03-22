@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto:wght@300;700&family=Young+Serif&display=swap');
+
+
+body{
+    background-color: rgb(248, 240, 231);
+}
+
+img{
+    width: 300px;
+    display: inline-block;
+    margin: 5px;
+    border: 3px double;
+}
+
+.place{
+    width: 1500px;
+    height: 200px;
+    background-color: rgb(247, 176, 91);
+    margin: auto;
+}
+.box{
+    position: relative;
+    top:120px;
+    width: 300px;
+    height: 60px;
+    background-color: antiquewhite;
+    border: 1px dotted black;
+    text-decoration: none;
+    text-align: center;
+}
+
+.class1{
+    border: 2px black solid ;
+    max-width:900px;
+    margin: auto;
+}
+.class2{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Young Serif', serif;
+    color: black
+}
+
+.class3{
+    font-family: 'Poppins', sans-serif;
+    color:black
+}
+ul{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+ h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(84, 18, 146);
+    font-size:50px;
+    position:absolute;
+    right: 550px;
+    top: 50px;
+    margin: auto;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(179, 121, 234);
+}
+
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+
+
+.rectangle{
+    margin: auto;
+    width: 800px;
+    height: 200px;
+    border: 2px solid black;
+    display:block;
+    
+}
+.pink{
+    background-color: rgba(250, 164, 178, 0.984);
+}
+
+.white{
+    background-color: white;
+}
+
+.grey{
+    background-color: rgb(158, 154, 154);
+}
+
+.purple{
+    background-color: purple;
+}
+
+.dragonFruit{
+    background-color: #FF3EBF;
+}
+
+div{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+main{
+    max-width: 900px;
+    margin: auto;
+    text-align: left;
+}
+
+.primary-button {
+    background-color: #007bff;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+    padding: 10px 20px;
+    
+}
+
+
+.cake {
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.custom-list li {
+    margin-bottom: 5px;
+}
+
+.custom-table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.custom-table th, .custom-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.custom-table th {
+    background-color: #f2f2f2;
+}
